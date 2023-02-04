@@ -1,0 +1,23 @@
+{
+  "name": "study-jest",
+  "version": "1.0.0",
+  "description": "Repository used to study JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lima-pedro/study-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lima-pedro/study-jest/issues"
+  },
+  "homepage": "https://github.com/lima-pedro/study-jest#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
